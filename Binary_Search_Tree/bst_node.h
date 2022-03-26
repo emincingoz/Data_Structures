@@ -1,6 +1,8 @@
 #ifndef _BSTNode_
 #define _BSTNode_
 
+#include <cstddef>
+
 struct BSTNode
 {
     int key;
