@@ -10,4 +10,6 @@ The nodes in a binary search tree must be have some properties:
 * The right subtree of a particular node will always contain nodes with keys greater than that node's key. 
 * The keys in binary search tree must be unique.
 
+**Time Complexity**: O(d) for Find, Min, Max, Previous, Next, Add, Remove operations. The d in O(d) is the depth of the binary search tree.
+
 ![image](https://user-images.githubusercontent.com/49842813/160251275-37f1ad17-15a7-4ae4-b182-f788322886c7.png)
